@@ -2,6 +2,6 @@
 <h3 align="center">Passionate Software Developer</h3>
 
 
-<!-- - 📫 How to reach me **Mutuaj793@gmail.com** -->
+- 📫 How to reach me **Mutuaj793@gmail.com**
 
 
