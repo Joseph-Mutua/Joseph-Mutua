@@ -17,19 +17,12 @@
 
 <p align="left">
   <strong>Data & APIs:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="data and api stack" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="data and api stack" /><br/>
+  • REST APIs<br/>
 </p>
 
-<p align="left">
-  <strong>Libraries & Tooling:</strong><br/>
-  • TanStack (Query/Table)<br/>
-  • React Hook Form + Zod<br/>
-  • Docker + CI/CD (Continuous Integration/Continuous Delivery)<br/>
-  • Jest / Vitest + React Testing Library<br/>
-  • Playwright (End-to-End (E2E))<br/>
-  • ESLint + Prettier<br/>
 
-</p>
+
 
 
 
