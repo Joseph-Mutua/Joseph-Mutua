@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Joseph Mutua</h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -12,7 +13,7 @@
 
 <p align="left">
   <strong>Backend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python" height="40" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,python" height="40" alt="backend stack" />
 </p>
 
 <p align="left">
@@ -20,6 +21,8 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="data and api stack" /><br/>
   • REST APIs<br/>
 </p>
+
+
 
 
 
