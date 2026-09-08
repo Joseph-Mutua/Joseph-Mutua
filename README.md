@@ -1,19 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Joseph Mutua
+# Hi, I'm Joseph Mutua
 
 ### Software Engineer · Full-Stack Developer · QA & Automation Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Ruby+on+Rails+%7C+React+%7C+Node.js;Cloud+%26+DevOps+%7C+AWS+%7C+Azure;QA+Automation+%7C+Playwright+%7C+Cypress;Turning+ideas+into+reliable+software" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/Joseph-Mutua">
-  <img src="https://img.shields.io/badge/GitHub-Joseph--Mutua-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/joseph-mutua101/">
-  <img src="https://img.shields.io/badge/LinkedIn-Joseph%20Mutua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Ruby+on+Rails+%7C+React+%7C+Node.js+%7C+Python;Cloud+%26+DevOps+%7C+AWS+%7C+Azure;QA+Automation+%7C+Playwright+%7C+Cypress" alt="Typing SVG" />
 
 </div>
 
@@ -21,34 +12,23 @@
 
 ## About Me
 
-I'm a software engineer focused on building reliable, scalable, and maintainable products across the full development lifecycle.
+Software engineer building scalable **web applications, APIs, backend systems, cloud solutions, and test automation**.
 
-I work across **frontend development, backend systems, APIs, cloud infrastructure, databases, and automated testing**, with a strong interest in designing systems that are both technically robust and enjoyable to use.
-
-*  Building full-stack and backend-heavy applications
-*  Working with **Ruby and Ruby on Rails**
-*  Building modern interfaces with **React, Next.js and TypeScript**
-*  Designing APIs, integrations and distributed services
-*  Building backend services and automation with **Python**
-*  Building reliable automation with **Playwright and Cypress**
-*  Deploying and operating applications across **AWS and Azure**
-*  Exploring AI-powered applications, RAG systems and developer tooling
+I enjoy working with **Ruby on Rails, React, Node.js, Python and TypeScript**, and I'm particularly interested in **open-source software and contributing to impactful engineering projects**.
 
 ---
 
 # Tech Stack
 
-###  Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML` · `CSS`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS`
 
----
-
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,nestjs,py,php,laravel" />
@@ -56,17 +36,13 @@ I work across **frontend development, backend systems, APIs, cloud infrastructur
 
 `Ruby` · `Ruby on Rails` · `Node.js` · `NestJS` · `Python` · `PHP` · `Laravel`
 
----
-
-### Databases & APIs
+### Data & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql" />
 </p>
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `GraphQL` · `REST APIs` · `Webhooks`
-
----
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `GraphQL` · `REST APIs`
 
 ### Testing & Automation
 
@@ -74,27 +50,15 @@ I work across **frontend development, backend systems, APIs, cloud infrastructur
   <img src="https://skillicons.dev/icons?i=playwright,cypress,jest,postman" />
 </p>
 
-`Playwright` · `Cypress` · `Jest` · `Postman` · `API Testing` · `Integration Testing` · `E2E Testing`
+`Playwright` · `Cypress` · `Jest` · `Postman` · `API Testing`
 
----
-
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,linux" />
 </p>
 
-`AWS` · `Azure` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD` · `Git` · `Linux`
-
----
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,npm,pnpm,vite" />
-</p>
-
-`VS Code` · `GitHub` · `GitLab` · `npm` · `pnpm` · `Vite`
+`AWS` · `Azure` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD`
 
 ---
 
@@ -104,12 +68,13 @@ I work across **frontend development, backend systems, APIs, cloud infrastructur
 <tr>
 <td width="50%">
 
-### Search Intelligence Platform
+### Query Pulse
 
-Full-stack search intelligence platform focused on search aggregation, analytics, structured results, and developer-friendly APIs.
+Search intelligence platform focused on search aggregation, structured results, analytics, and developer-friendly APIs.
 
-**Focus:**
-`Full Stack` · `APIs` · `Search` · `Data`
+[View Repository →](https://github.com/Joseph-Mutua/query-pulse)
+
+`Full Stack` · `Search` · `APIs` · `Data`
 
 </td>
 
@@ -117,11 +82,10 @@ Full-stack search intelligence platform focused on search aggregation, analytics
 
 ### AtmosGuard
 
-Automated API quality platform for validating weather services across reliability, performance, accuracy, and failure scenarios.
+Automated API quality platform for validating reliability, performance, accuracy, and failure scenarios.
 
 [View Repository →](https://github.com/Joseph-Mutua/weatherai-atmosguard)
 
-**Stack:**
 `TypeScript` · `Playwright` · `GitHub Actions`
 
 </td>
@@ -132,11 +96,10 @@ Automated API quality platform for validating weather services across reliabilit
 
 ### LevelFlow Lab
 
-Workflow and risk-management application focused on structured enterprise processes and modern frontend architecture.
+Enterprise workflow and risk-management application built around structured business processes.
 
 [View Repository →](https://github.com/Joseph-Mutua/levelflow-lab)
 
-**Stack:**
 `React` · `TypeScript` · `Full Stack`
 
 </td>
@@ -145,45 +108,11 @@ Workflow and risk-management application focused on structured enterprise proces
 
 ### FastWeigh Event Gateway
 
-Event-driven integration service for receiving, validating and processing webhook-based operational events.
+Event-driven integration service for receiving and processing operational webhook events.
 
 [View Repository →](https://github.com/Joseph-Mutua/fastweigh-event-gateway)
 
-**Stack:**
 `APIs` · `Webhooks` · `Event-Driven Architecture`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 FastWeigh Intelligence
-
-Operational intelligence and KPI analytics platform designed to surface insights from business and event data.
-
-[View Repository →](https://github.com/Joseph-Mutua/fastweigh-intelligence)
-
-**Stack:**
-`Analytics` · `Dashboards` · `Data`
-
-</td>
-
-<td width="50%">
-
-### 🔧 More Projects
-
-I regularly build projects around:
-
-* AI & RAG systems
-* Backend architecture
-* Developer tooling
-* Cloud infrastructure
-* QA automation
-* Data engineering
-* Full-stack applications
-
-[Explore my repositories →](https://github.com/Joseph-Mutua?tab=repositories)
 
 </td>
 </tr>
@@ -191,7 +120,15 @@ I regularly build projects around:
 
 ---
 
-# 📊 GitHub Analytics
+# Open Source
+
+I'm interested in contributing to **open-source projects**, particularly around:
+
+`Developer Tools` · `Backend Systems` · `Testing` · `AI/ML` · `Cloud` · `Data`
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
@@ -208,70 +145,3 @@ I regularly build projects around:
 <img src="https://streak-stats.demolab.com?user=Joseph-Mutua&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseph-Mutua&hide_border=true&area=true&theme=github-compact" width="100%" />
-
-</div>
-
----
-
-# 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Joseph-Mutua&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-# 💡 What I Enjoy Building
-
-```text
-Frontend       ██████████████████░░  React / Next.js / TypeScript
-Backend        ███████████████████░  Rails / Node.js / Python / APIs
-Automation     ██████████████████░░  Playwright / Cypress
-Cloud          ████████████████░░░░  AWS / Azure / Docker
-Data           ████████████████░░░░  PostgreSQL / SQL / Analytics
-AI Systems     ███████████████░░░░░  RAG / LLM Applications
-```
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-I'm interested in collaborating on **full-stack applications, backend systems, Ruby on Rails projects, Python services, developer tooling, cloud platforms, AI systems, and open-source software.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/joseph-mutua101/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Joseph-Mutua">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Build thoughtfully · Test thoroughly · Ship confidently**
-
-</div>
-
-
-
-
-
-
-
-
-
-
