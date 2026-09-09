@@ -126,22 +126,15 @@ I'm interested in contributing to **open-source projects**, particularly around:
 
 `Developer Tools` · `Backend Systems` · `Testing` · `AI/ML` · `Cloud` · `Data`
 
+Hit me up if there's an interesting project we can collaborate on🤝
+
+
 ---
 
-# GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joseph-Mutua&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Mutua&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
 
 </div>
 
 <br/>
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Joseph-Mutua&hide_border=true&theme=transparent" alt="GitHub Streak" />
-
-</div>
